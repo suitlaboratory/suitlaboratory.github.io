@@ -27,7 +27,7 @@ Our work is supported by 'National Natural Science Foundation of China', 'Natura
 
 I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
 
-I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, and as a reviewer for IEEE TMI、IEEE TUFFC、Ultrasonics、Ultrasound in Medicine & Biology、Acta Biomaterilia、Scientific Reports、Measurement、声学学报、Ultrasonic Imaging、Nanoscale, etc.
+I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, and as a reviewer for IEEE TMI、IEEE TUFFC、Ultrasonics、Ultrasound in Medicine & Biology、Acta Biomaterilia、Nature Communications、Scientific Reports、Measurement、声学学报、Ultrasonic Imaging、Nanoscale, etc.
 
 # ✡️ Research Interests 
 
