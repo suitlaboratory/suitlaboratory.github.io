@@ -54,6 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.3*: Congratulations, Shilong Cui's work titled "BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10938326)
 - *2025.2*: Congratulations, Yiming Huang's work titled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
 - *2024.12*: Congratulations, Yihang Lian's work titled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
 - *2024.11*: Congratulations to Bowei Yao and Yifei Li! They have successfully defended their Master degree thesis.
@@ -82,6 +83,17 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/BentRayNeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
+
+Shilong Cui, Qing Wu, Yiming Huang, Haizhao Dai, Yuyao Zhang, Jingyi Yu, Xiran Cai\*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/10938326)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasonics 2025</div><img src='images/USCTAcceleration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
