@@ -247,6 +247,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
+- *2024* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
 - *2024* 博士研究生国家奖学金 (awarded to 朱卉).
 - *2024* Student Award Finalist (awarded to Hui Zhu), ISTU.
 - *2024* Student Poster Award Finalist (awarded to Yi Zeng), ISTU.
