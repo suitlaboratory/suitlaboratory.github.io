@@ -247,7 +247,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
-- *2024* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
+- *2025* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
 - *2024* 博士研究生国家奖学金 (awarded to 朱卉).
 - *2024* Student Award Finalist (awarded to Hui Zhu), ISTU.
 - *2024* Student Poster Award Finalist (awarded to Yi Zeng), ISTU.
@@ -298,9 +298,6 @@ School of Information Science and Technology, ShanghaiTech University.
   + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
   + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
 - **Master Students**
-  + Yiming Huang (2022 Fall - present): B.E. at Shanghai Technology University.
-  + Teng Liang (2022 Fall - present): B.E. at Shanghaitech University.
-  + Yichen Yang (2022 Fall - present): B.E. at Shanghaitech University.
   + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
   + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
@@ -308,9 +305,17 @@ School of Information Science and Technology, ShanghaiTech University.
   + Zihua Liang (2024 Fall - present): B.E. at University of Shanghai for Science and Technology.
   + Letian Wang (2024 Fall - present): B.E. at Shanghai University of Electric Power.
   + Pengcheng Wan (2024 Fall - present): B.E. at Southwest University of Science and Technology.
-- **Undergrads**
-  + Suian Zhou (2023 Fall - present), ShanghaiTech University
+  + Jie Liu (2025 Fall - present): B.E. at Xidian University.
+  + Li Cui (2025 Fall - present): B.E. at Hangzhou Dianzi University.
+  + Zhengyang Li (2025 Fall - present): B.E. at Wuhan University of Technology.
+  
+  <!--- **Undergrads**
+  + Suian Zhou (2023 Fall - present), ShanghaiTech University-->
 - **Alumni**
+  + Yiming Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
+  + Teng Liang (2022 - 2025), Currently an Engineer at China Telecom.
+  + Yichen Yang (2022 - 2025), Currently an Engineer at BYD.
+  + Suian Zhou (2023 - 2025), Currently an Graduate Student at Chinese Academy of Sciences.
   + Bowei Yao (2021 - 2024), Currently an Engineer at Tencent.
   + Yifei Li (2021 - 2024), Currently an Engineer at Sifary Medical Technology Co.,Ltd.
   + Gaofei Jin (2020 - 2023), Currently an PhD candidate at the University of Rochester, United States.
