@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Shi"
+title: "Xiran Cai"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -54,6 +54,8 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.5*: Congratulations, Gaofei Jin and Yi Zeng's work titled "Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11007027)
+- *2025.5*: Congratulations, Yi Zeng's work titled "Switchable deep beamformer for high-quality and real-time passive acoustic mapping" has been accepted by Ultrasound in Medicine & Biology. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
 - *2025.3*: Congratulations, Shilong Cui's work titled "BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10938326)
 - *2025.2*: Congratulations, Yiming Huang's work titled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
 - *2024.12*: Congratulations, Yihang Lian's work titled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
@@ -83,6 +85,28 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/single_probe_TPAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
+
+Gaofei Jin#, Yi Zeng#, Hui Zhu, Guotao Quan, Xiran Cai\*, Dean Ta\*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/11007027)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/single_probe_TPAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Switchable deep beamformer for high-quality and real-time passive acoustic mapping, Ultrasound in Medicine & Biology 2025**
+
+Yi Zeng, Jinwei Li, Hui Zhu, Shukuan Lu\*, Jianfeng Li\*, Xiran Cai\*
+
+[[**paper**]](link will appear soon)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/BentRayNeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
