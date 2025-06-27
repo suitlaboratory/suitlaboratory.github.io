@@ -54,6 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.06*: Congratulations, Hui Zhu's work titled "Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
 - *2025.06*: Four abstracts accepted by 2025 IEEE International Ultrasonics Symposium (IUS). Congratulations to Shilong Cui, Pengcheng Wan, Yihang Lian, and Hui Zhu!
 - *2025.05*: Yihang Lian successfully defended his application of MS to PhD conversion. 
 - *2025.05*: Congratulations, Gaofei Jin and Yi Zeng's work titled "Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11007027)
