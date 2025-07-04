@@ -54,30 +54,31 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2025.06*: Congratulations, Hui Zhu's work titled "Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
+- *2025.07*: Congratulations, Yi Zeng's work entitled "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following (link will appear soon)<!--the [link](https://ieeexplore.ieee.org/document/11063451).-->
+- *2025.06*: Congratulations, Hui Zhu's work entitled "Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11063451).
 - *2025.06*: Four abstracts accepted by 2025 IEEE International Ultrasonics Symposium (IUS). Congratulations to Shilong Cui, Pengcheng Wan, Yihang Lian, and Hui Zhu!
 - *2025.05*: Yihang Lian successfully defended his application of MS to PhD conversion. 
-- *2025.05*: Congratulations, Gaofei Jin and Yi Zeng's work titled "Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11007027)
-- *2025.05*: Congratulations, Yi Zeng's work titled "Switchable deep beamformer for high-quality and real-time passive acoustic mapping" has been accepted by Ultrasound in Medicine & Biology. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
-- *2025.03*: Congratulations, Shilong Cui's work titled "BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10938326)
-- *2025.02*: Congratulations, Yiming Huang's work titled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
-- *2024.12*: Congratulations, Yihang Lian's work titled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
+- *2025.05*: Congratulations, Gaofei Jin and Yi Zeng's work entitled "Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11007027)
+- *2025.05*: Congratulations, Yi Zeng's work entitled "Switchable deep beamformer for high-quality and real-time passive acoustic mapping" has been accepted by Ultrasound in Medicine & Biology. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
+- *2025.03*: Congratulations, Shilong Cui's work entitled "BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10938326)
+- *2025.02*: Congratulations, Yiming Huang's work entitled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
+- *2024.12*: Congratulations, Yihang Lian's work entitled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
 - *2024.11*: Congratulations to Bowei Yao and Yifei Li! They have successfully defended their Master degree thesis.
 - *2024.11*: Congratulations! Hui Zhu was awarded the 'National scholarship for doctoral students (博士研究生国家奖学金)'.
 - *2024.10*: Our grant proposal received the support from 'Natural Science Foundation of Shanghai'.
 - *2024.08*: Our grant proposal received the support from 'National Natural Science Foundation of China'.
 - *2024.06*: Three abstracts accepted by 2024 IEEE International Ultrasonics Symposium (IUS). Congratulations to Bowei Yao, Yi Zeng and Hui Zhu!
-- *2024.05*: Hui Zhu has published a paper titled "Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method" in IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 5, May 2024). Details can be found following the [link](https://ieeexplore.ieee.org/document/10387410)
+- *2024.05*: Hui Zhu has published a paper entitled "Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method" in IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 5, May 2024). Details can be found following the [link](https://ieeexplore.ieee.org/document/10387410)
 - *2024.05*: Congratulations to Yi Zeng and Hui Zhu! Their works on passive acoustic mapping have been selected to compete for the Student Award and Student Poster Award by 2024 International Symposium on Therapeutic Ultrasound (ISTU), and they both received the Student Registration Award for ISTU 2024.
 - *2024.05*: 祝贺崔世龙、连奕航同学在”AI4S Cup-超声CT成像中的声场预测“比赛中获奖。崔世龙获得声场预测“三等奖”和“最佳反演效果奖”，连奕航获得声场预测“三等奖”。
 - *2024.05*: Yi Zeng successfully defended his application of MS to PhD conversion. 
 - *2023.11*: 课题组获批2023年度医学成像科学与技术系统中国科学院(全国)重点实验室一般开放基金项目1项。
 - *2023.10*: 我的报告在西湖国际超声医学论坛暨国际超声造影会议获得青年论坛报告二等奖。
-- *2023.05*: I and collaborators published a paper titled "Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments" in Science Advances ( Volume: 9, Issue: 22, May 2023). Details can be found following the [link](https://www.science.org/doi/10.1126/sciadv.adg8176)
+- *2023.05*: I and collaborators published a paper entitled "Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments" in Science Advances ( Volume: 9, Issue: 22, May 2023). Details can be found following the [link](https://www.science.org/doi/10.1126/sciadv.adg8176)
 - *2023.05*: Congratulations to Jin Gaofei, Xu Xuan, and Meng Mancheng! They have successfully defended their Master degree thesis. They are now embarking on new journeys in life. Jin Gaofei is heading to the U.S. for further studie (fully funded Ph.D. at the University of Rochester) and Xu Xuan and Meng Mancheng will joint the industry (Huawei, Unite Imaging)!
 - *2023.05*: SUSIT lab had eight conference abstracts accepted by the prestigious IEEE International Ultrasonics Symposium this year. Congratulations to the eight students in our group (including one undergraduate from ShanghaiTech University)!
 - *2023.05*: Shilong Cui successfully defended his application of MS to PhD conversion. 
-- *2023.03*: Gaofei Jin has published a paper titled "A Signal-Domain Object Segmentation Method for Ultrasound and Photoacoustic Computed Tomography" in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Volume: 70, Issue: 3, March 2023). Details can be found following the [link](https://ieeexplore.ieee.org/document/9999250)
+- *2023.03*: Gaofei Jin has published a paper entitled "A Signal-Domain Object Segmentation Method for Ultrasound and Photoacoustic Computed Tomography" in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Volume: 70, Issue: 3, March 2023). Details can be found following the [link](https://ieeexplore.ieee.org/document/9999250)
 - *2022.09*: SUSIT lab welcomes 2 new members (Undergrads), Yiming Huang, Chenguang Wang. 
 - *2022.06*: The prestigious 2022 IEEE International Ultrasonics Symposium (IUS) has accepted two abstracts submitted by Yi Zheng and Hui Zhu, respectively. They will present their works at the conference to be held in Venice, Italy, on October 10-13, 2022. Congratulations!
 - *2022.05*: Hui Zhu successfully defended her application of MS to PhD conversion. 
@@ -88,6 +89,28 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/single_xx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
+
+Yi Zeng, Shixiao W. Jiang, Hui Zhu, Jinwei Li, Jianfeng Li, Fei Li, Shukuan Lu\*, Xiran Cai\*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/11063451)
+</div>
+</div>
+-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/RCA_PAM_cross.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum Method, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
+
+Hui Zhu, Yi Zeng, Jianfeng Li, Kailiang Xu\*, Xiran Cai\*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/11063451)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/single_probe_TPAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
