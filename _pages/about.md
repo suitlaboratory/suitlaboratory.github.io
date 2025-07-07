@@ -344,10 +344,10 @@ School of Information Science and Technology, ShanghaiTech University.
   + Yiming Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
   + Teng Liang (2022 - 2025), Currently an Engineer at China Telecom.
   + Yichen Yang (2022 - 2025), Currently an Engineer at BYD.
-  + Suian Zhou (2023 - 2025), Currently an Graduate Student at Chinese Academy of Sciences.
+  + Suian Zhou (2023 - 2025), Currently a Graduate Student at Chinese Academy of Sciences.
   + Bowei Yao (2021 - 2024), Currently an Engineer at Tencent.
   + Yifei Li (2021 - 2024), Currently an Engineer at Sifary Medical Technology Co.,Ltd.
-  + Gaofei Jin (2020 - 2023), Currently an PhD candidate at the University of Rochester, United States.
+  + Gaofei Jin (2020 - 2023), Currently a PhD candidate at the University of Rochester, United States.
   + Xuan Xu (2020 - 2023), Currently an Engineer at Huawei Technologies Co., Ltd.
   + Mancheng Meng (2020 - 2023), Currently an Engineer at United Imaging Healthcare Co.,Ltd.
 <!-- - **Visiting Students** -->
