@@ -27,7 +27,7 @@ Our work is supported by 'National Natural Science Foundation of China', 'Natura
 
 I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
 
-I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, and as a reviewer for IEEE TMI、IEEE TUFFC、IEEE TBME、Ultrasonics、Ultrasound in Medicine & Biology、Acta Biomaterilia、Nature Communications、Scientific Reports、Measurement、声学学报、Ultrasonic Imaging、Nanoscale, etc.
+I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for the sessions at IEEE IUS 2023, 2024, 2025 and ESUCB 2017, and as a reviewer for IEEE TMI、IEEE TUFFC、IEEE TBME、Ultrasonics、Ultrasound in Medicine & Biology、Acta Biomaterilia、Nature Communications、Scientific Reports、Measurement、声学学报、Ultrasonic Imaging、Nanoscale, etc.
 
 # ✡️ Research Interests 
 
@@ -288,6 +288,8 @@ School of Information Science and Technology, ShanghaiTech University.
 # 💬 Talks 
 
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- - *2025.12*, title. 189th Meeting of the Acoustical Society of America, Invited Talk -->
+- *2025.07* Multi-dimensional Realtime Passive Cavitation Imaging, 2025 International Symposium on Nonlinear Acoustics, Invited Talk.
 - *2024.11* 多维度高分辨率被动声成像方法, 第五届“气泡动力学青年研讨会”，邀请报告.
 - *2024.03* 聚焦超声治疗及图像引导技术简介, 复旦大学，邀请报告.
 - *2023.07* 高分辨率被动空化成像方法研究, 2022-2023全国声学大会, 邀请报告.
@@ -296,7 +298,7 @@ School of Information Science and Technology, ShanghaiTech University.
 
 # 🕴️ Activities
 - **Session Chair**
-  + IEEE IUS 2023 2024, ESUCB 2017.
+  + IEEE IUS 2023-2025, ESUCB 2017.
   <!--- **Program committee**-->
   <!-- + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024. -->
 
@@ -313,8 +315,8 @@ School of Information Science and Technology, ShanghaiTech University.
   + Nanoscale
 
 # 🧑‍🏫 Teaching
-- Course EE150 - **Signal and Systems**, ShanghaiTech University, 2022 Autumn, 2023 Autumn, 2024 Autumn.
-- Course CS270 - **Digital Image Processing**, ShanghaiTech University, 2021 Spring, 2022 Spring, 2023 Spring, 2024 Spring.
+- Course EE150 - **Signal and Systems**, ShanghaiTech University, 2022 Autumn, 2023 Autumn, 2024 Autumn, 2025 Autumn.
+- Course CS270 - **Digital Image Processing**, ShanghaiTech University, 2021 Spring, 2022 Spring, 2023 Spring, 2024 Spring, 2025 Spring.
 - Course EE290Y - **Physics in Medical Imaging**, ShanghaiTech University, 2021 Summer.
 - Course EE290X - **Electric circuit (Basics)**, ShanghaiTech University, 2020 Autumn, 2021 Autumn.
 
