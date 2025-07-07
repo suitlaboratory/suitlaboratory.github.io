@@ -326,6 +326,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
   + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
   + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
+  
 - **Master Students**
   + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
