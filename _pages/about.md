@@ -54,7 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2025.07*: Congratulations, Yi Zeng's work entitled "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following (link will appear soon)<!--the [link](https://ieeexplore.ieee.org/document/11063451).-->
+- *2025.07*: Congratulations, Yi Zeng's work entitled "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11072264).
 - *2025.06*: Congratulations, Hui Zhu's work entitled "Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11063451).
 - *2025.06*: Four abstracts accepted by 2025 IEEE International Ultrasonics Symposium (IUS). Congratulations to Shilong Cui, Pengcheng Wan, Yihang Lian, and Hui Zhu!
 - *2025.05*: Yihang Lian successfully defended his application of MS to PhD conversion. 
@@ -89,17 +89,17 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/single_xx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/AS-TAX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
 
 Yi Zeng, Shixiao W. Jiang, Hui Zhu, Jinwei Li, Jianfeng Li, Fei Li, Shukuan Lu\*, Xiran Cai\*
 
-[[**paper**]](https://ieeexplore.ieee.org/document/11063451)
+[[**paper**]](https://ieeexplore.ieee.org/document/11072264)
 </div>
 </div>
--->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/RCA_PAM_cross.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
