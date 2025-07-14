@@ -210,6 +210,7 @@ C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang*
 </div>
 </div>
 --> 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep. 2022</div><img src='images/scirep22.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -219,6 +220,8 @@ Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherin
 [[**paper**]](https://www.nature.com/articles/s41598-022-16961-2)
 </div>
 </div>
+--> 
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materialia 2020</div><img src='images/mate20.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -232,7 +235,7 @@ Xiran Cai*, Laura Peralta, Renald Brenner, Gianluca Iori, Didier Cassereau, Kay 
 </div>
 </div> 
 --> 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly, Acta Biomater. 2019**
@@ -242,7 +245,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 [[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
 </div>
 </div>
-
+--> 
   
 <!-- 
 - **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)--> 
