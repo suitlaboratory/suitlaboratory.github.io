@@ -122,7 +122,7 @@ Gaofei Jin#, Yi Zeng#, Hui Zhu, Guotao Quan, Xiran Cai\*, Dean Ta\*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/switchable_deep_PAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UMB 2025</div><img src='images/switchable_deep_PAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Switchable deep beamformer for high-quality and real-time passive acoustic mapping, Ultrasound in Medicine & Biology 2025**
