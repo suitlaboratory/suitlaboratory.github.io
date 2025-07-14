@@ -243,23 +243,9 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 </div>
 </div>
 
-- **Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**, Yuting Shen, Bowei Yao, Xiran Cai, Yuyao Zhang, Fei Gao, arXiv 2024. [[**paper**]](https://arxiv.org/abs/2407.03663)
   
-- **Sparse-view signal-domain photoacoustic tomography reconstruction method based on neural representation**, Bowei Yao, Yi Zeng, Haizhao Dai, Qing Wu, Youshen Xiao, Fei Gao, Yuyao Zhang, Jingyi Yu, Xiran Cai, arXiv, 2024. [[**paper**]](https://arxiv.org/abs/2406.17578)
-  
-- **A Fast Fourier Beamformer for Convex-array Passive Acoustic Mapping**, Hui Zhu, Yi Zeng, Yifei Li, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306369/) 
-  
-- **Accelerating image reconstruction speed in ultrasound computed tomography with structural information**, Yiming Huang, Shilong Cui, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306606/)
-
-- **Speed-of-sound ultrasound computed tomography based on bent ray tracing and multi-layer perceptron**, Shilong Cui, Haizhao Dai, Yiming Huang, Jingyi Yu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10308147/)
-  
-- **A signal-domain method to reconstruct object’s boundary for 3D ultrasound computed tomography**, Teng Liang, Gaofei Jin, Yi Zeng, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10307777/)
-
-- **Light-rotating ring-shape photoacoustic tomography system**, Bowei Yao, Xiyu Chen, Gaofei Jin, Fei Gao, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10307511/)
-  
-- **Ring Array Passive Acoustic Mapping Using Hybrid Heterogeneous Angular Spectrum Method**, Hui Zhu, Yiming Huang, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958620/)
-
-- **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)
+<!-- 
+- **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)--> 
 
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
