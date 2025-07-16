@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. from Sorbonne Université, Paris, France, in 2018, under the direction of Pascal Laugier (Member, European Academy of Sciences) and Quentin Grimal.
+I received my Ph.D. from Sorbonne Université, Paris, France, in 2018, under the direction of Quentin Grimal and Pascal Laugier (Member, European Academy of Sciences).
 
 From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral research training under the direction of Katherine W. Ferrara (Member, National Academy of Engineering).
 
@@ -252,7 +252,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
-  + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
+  + Supervisor: Prof. Quentin Grimal, Prof. Pascal Laugier (Member,  European Academy of Sciences)
 
 # 💻 Work Experience
 - **Assistant Professor** (2020 -now): 
