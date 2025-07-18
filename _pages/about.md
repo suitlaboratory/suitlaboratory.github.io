@@ -54,6 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.07*: Congratulations, Pengcheng Wan has been selected to receive a travel grant of $700.00 USD for IEEE IUS 2025!
 - *2025.07*: Congratulations, Yi Zeng's work entitled "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11072264).
 - *2025.06*: Congratulations, Hui Zhu's work entitled "Real-time 3D Passive Acoustic Mapping for Row-column Arrays with the Cross-spectrum method" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11063451).
 - *2025.06*: Four abstracts accepted by 2025 IEEE International Ultrasonics Symposium (IUS). Congratulations to Shilong Cui, Pengcheng Wan, Yihang Lian, and Hui Zhu!
@@ -262,16 +263,17 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
+- *2025* Student Travel Award (awarded to Pengcheng Wan), IEEE IUS.
 - *2025* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
 - *2024* 博士研究生国家奖学金 (awarded to 朱卉).
 - *2024* Student Award Finalist (awarded to Hui Zhu), ISTU.
 - *2024* Student Poster Award Finalist (awarded to Yi Zeng), ISTU.
-- *2024* 最佳反演效果奖 (awarded to 崔世龙), , AI4S Cup-超声CT成像中的声场预测.
+- *2024* 最佳反演效果奖 (awarded to 崔世龙) , AI4S Cup-超声CT成像中的声场预测.
 - *2024* 三等奖 (awarded to 崔世龙), AI4S Cup-超声CT成像中的声场预测.
 - *2024* 三等奖 (awarded to 连奕航), AI4S Cup-超声CT成像中的声场预测.
-- *2023* Student Traveling Award (awarded to Hui Zhu), IEEE IUS.
+- *2023* Student Travel Award (awarded to Hui Zhu), IEEE IUS.
 - *2023* 青年论坛报告二等奖, 西湖国际超声医学论坛暨国际超声造影会议.
-- *2017* Student Traveling Award, IEEE IUS.
+- *2017* Student Travel Award, IEEE IUS.
 - *2017* Best Talk Award, IBDW.
 
 # 💬 Talks 
