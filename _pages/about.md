@@ -281,6 +281,7 @@ School of Information Science and Technology, ShanghaiTech University.
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 <!-- - *2025.12*, title. 189th Meeting of the Acoustical Society of America, Invited Talk -->
 - *2025.07* Multi-dimensional Realtime Passive Cavitation Imaging, 2025 International Symposium on Nonlinear Acoustics, Invited Talk.
+- *2025.04* 聚焦超声空化治疗的可视化监测方法研究，第91届中国国际医疗器械博览会超声论坛.
 - *2024.11* 多维度高分辨率被动声成像方法, 第五届“气泡动力学青年研讨会”，邀请报告.
 - *2024.03* 聚焦超声治疗及图像引导技术简介, 复旦大学，邀请报告.
 - *2023.07* 高分辨率被动空化成像方法研究, 2022-2023全国声学大会, 邀请报告.
