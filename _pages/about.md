@@ -60,7 +60,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2025.06*: Four abstracts accepted by 2025 IEEE International Ultrasonics Symposium (IUS). Congratulations to Shilong Cui, Pengcheng Wan, Yihang Lian, and Hui Zhu!
 - *2025.05*: Yihang Lian successfully defended his application of MS to PhD conversion. 
 - *2025.05*: Congratulations, Gaofei Jin and Yi Zeng's work entitled "Single Probe Enabled Refraction-Corrected Transcranial Passive Acoustic Mapping Through Macaque Calvaria" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11007027)
-- *2025.05*: Congratulations, Yi Zeng's work entitled "Switchable deep beamformer for high-quality and real-time passive acoustic mapping" has been accepted by Ultrasound in Medicine & Biology. Details can be found following (link will appear soon)<!-- the [link](https://ieeexplore.ieee.org/document/10938326)-->
+- *2025.05*: Congratulations, Yi Zeng's work entitled "Switchable deep beamformer for high-quality and real-time passive acoustic mapping" has been accepted by Ultrasound in Medicine & Biology. Details can be found following the [link](https://doi.org/10.1016/j.ultrasmedbio.2025.05.013)
 - *2025.03*: Congratulations, Shilong Cui's work entitled "BentRay-NeRF: Bent ray neural radiance fields for robust speed-of-sound imaging in ultrasound computed tomography" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10938326)
 - *2025.02*: Congratulations, Yiming Huang's work entitled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
 - *2024.12*: Congratulations, Yihang Lian's work entitled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
@@ -130,7 +130,7 @@ Gaofei Jin#, Yi Zeng#, Hui Zhu, Guotao Quan, Xiran Cai\*, Dean Ta\*
 
 Yi Zeng, Jinwei Li, Hui Zhu, Shukuan Lu\*, Jianfeng Li\*, Xiran Cai\*
 
-[[**paper**]](link will appear soon)
+[[**paper**]](https://doi.org/10.1016/j.ultrasmedbio.2025.05.013)
 </div>
 </div>
 
