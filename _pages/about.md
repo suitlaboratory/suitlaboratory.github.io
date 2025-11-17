@@ -92,6 +92,17 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/HHWS_abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2025**
+
+Yifei Li, Hui Zhu, Yi Zeng, Shixiao W. Jiang\*, Xiran Cai\*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/11240230)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/AS-TAX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
