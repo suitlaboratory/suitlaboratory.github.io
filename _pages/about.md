@@ -54,6 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.12*: 祝贺曾一入选中国科协青年科技人才培育工程博士生专项计划。
 - *2025.11*: Congratulations, Yifei Li's work entitled "Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11240230).
 - *2025.09*: Good job! Shilong Cui, Yihang Lian and Pengcheng Wan gave their first oral presentation at 2025 IEEE International Ultrasonics Symposium in Utrecht, Netherland!
 - *2025.07*: Congratulations, Pengcheng Wan has been selected to receive a travel grant of $700.00 USD for IEEE IUS 2025!
@@ -276,6 +277,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
+- *2025* 中国科协青年科技人才培育工程博士生专项计划 (awarded to 曾一).
 - *2025* Student Travel Award (awarded to Pengcheng Wan), IEEE IUS.
 - *2025* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
 - *2024* 博士研究生国家奖学金 (awarded to 朱卉).
