@@ -81,17 +81,17 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2023.10*: 我的报告在西湖国际超声医学论坛暨国际超声造影会议获得青年论坛报告二等奖。
 - *2023.05*: I and collaborators published a paper entitled "Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments" in Science Advances ( Volume: 9, Issue: 22, May 2023). Details can be found following the [link](https://www.science.org/doi/10.1126/sciadv.adg8176)
 - *2023.05*: Congratulations to Jin Gaofei, Xu Xuan, and Meng Mancheng! They have successfully defended their Master degree thesis. They are now embarking on new journeys in life. Jin Gaofei is heading to the U.S. for further studie (fully funded Ph.D. at the University of Rochester) and Xu Xuan and Meng Mancheng will joint the industry (Huawei, Unite Imaging)!
-- *2023.05*: SUSIT lab had eight conference abstracts accepted by the prestigious IEEE International Ultrasonics Symposium this year. Congratulations to the eight students in our group (including one undergraduate from ShanghaiTech University)!
+- *2023.05*: SUIT lab had eight conference abstracts accepted by the prestigious IEEE International Ultrasonics Symposium this year. Congratulations to the eight students in our group (including one undergraduate from ShanghaiTech University)!
 - *2023.05*: Shilong Cui successfully defended his application of MS to PhD conversion. 
 - *2023.03*: Gaofei Jin has published a paper entitled "A Signal-Domain Object Segmentation Method for Ultrasound and Photoacoustic Computed Tomography" in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Volume: 70, Issue: 3, March 2023). Details can be found following the [link](https://ieeexplore.ieee.org/document/9999250)
-- *2022.09*: SUSIT lab welcomes 2 new members (Undergrads), Yiming Huang, Chenguang Wang. 
+- *2022.09*: SUIT lab welcomes 2 new members (Undergrads), Yiming Huang, Chenguang Wang. 
 - *2022.06*: The prestigious 2022 IEEE International Ultrasonics Symposium (IUS) has accepted two abstracts submitted by Yi Zheng and Hui Zhu, respectively. They will present their works at the conference to be held in Venice, Italy, on October 10-13, 2022. Congratulations!
 - *2022.05*: Hui Zhu successfully defended her application of MS to PhD conversion. 
 - *2022.05*: Xiran Cai has published two chapters in the book “Bone Quantitative Ultrasound New Horizons”, reporting the latest development of resonant ultrasound spectroscopy for high damping solids and its application in measuring the anisotropic stiffness of hard tissue. Details can be found following the [link](https://link.springer.com/book/10.1007/978-3-030-91979-5)
 - *2021.12*: Xiran Cai received the support of “Shanghai Overseas Talent Program”. 
-- *2021.09*: SUSIT lab welcomes 3 new members (Master students), Yifei Li, Shilong Cui, Bowei Yao. 
+- *2021.09*: SUIT lab welcomes 3 new members (Master students), Yifei Li, Shilong Cui, Bowei Yao. 
 - *2021.04*: Xiran Cai received a grant from “Shanghai Sailing Program”. 
-- *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
+- *2020.09*: SUIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/HHWS_abstract.png' alt="sym" width="100%"></div></div>
