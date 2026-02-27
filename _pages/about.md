@@ -54,7 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2026.02*: Congratulations, the work of Shaoqi Huang and Bowei Yao, entitled "Implicit Neural Representation for Sparse-view Photoacoustic Computed Tomography" has been accepted by Ultrasonics. Details can be found following the [link](link coming soom).
+- *2026.02*: Congratulations, the work of Shaoqi Huang and Bowei Yao, entitled "Implicit Neural Representation for Sparse-view Photoacoustic Computed Tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X26000430).
 - *2025.12*: 祝贺曾一入选中国科协青年科技人才培育工程博士生专项计划。
 - *2025.11*: Congratulations, Yifei Li's work entitled "Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11240230).
 - *2025.09*: Good job! Shilong Cui, Yihang Lian and Pengcheng Wan gave their first oral presentation at 2025 IEEE International Ultrasonics Symposium in Utrecht, Netherland!
@@ -94,6 +94,18 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 - *2020.09*: SUIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasonics 2026</div><img src='images/ultrasonics_inr_pact.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Implicit neural representation for sparse-view photoacoustic computed tomography, Ultrasonics 2026**
+
+Shaoqi Huang#, Bowei Yao#, Shilong Cui, Haizhao Dai, Qing Wu, Youshen Xiao, Fei Gao, Jingyi Yu, Yuyao Zhang, Xiran Cai\*
+
+[[**paper**]](https://www.sciencedirect.com/science/article/pii/S0041624X26000430)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2025</div><img src='images/HHWS_abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
