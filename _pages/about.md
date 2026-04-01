@@ -362,15 +362,15 @@ School of Information Science and Technology, ShanghaiTech University.
   <!--- **Undergrads**
   + Suian Zhou (2023 Fall - present), ShanghaiTech University-->
 - **Alumni**
-  + Yiming Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
-  + Teng Liang (2022 - 2025), Currently an Engineer at China Telecom.
-  + Yichen Yang (2022 - 2025), Currently an Engineer at BYD.
-  + Suian Zhou (2023 - 2025), Currently a Graduate Student at Chinese Academy of Sciences.
-  + Bowei Yao (2021 - 2024), Currently an Engineer at Tencent.
-  + Yifei Li (2021 - 2024), Currently an Engineer at Sifary Medical Technology Co.,Ltd.
-  + Gaofei Jin (2020 - 2023), Currently a PhD candidate at the University of Rochester, United States.
-  + Xuan Xu (2020 - 2023), Currently an Engineer at Huawei Technologies Co., Ltd.
-  + Mancheng Meng (2020 - 2023), Currently an Engineer at United Imaging Healthcare Co.,Ltd.
+  + Y. Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
+  + T. Liang (2022 - 2025), Currently an Engineer at China Telecom.
+  + Y. Yang (2022 - 2025), Currently an Engineer at BYD.
+  + S. Zhou (2023 - 2025), Currently a Graduate Student at Chinese Academy of Sciences.
+  + B. Yao (2021 - 2024), Currently an Engineer at Tencent.
+  + Y. Li (2021 - 2024), Currently an Engineer at Sifary Medical Technology Co.,Ltd.
+  + G. Jin (2020 - 2023), Currently a PhD candidate at the University of Rochester, United States.
+  + X. Xu (2020 - 2023), Currently an Engineer at Huawei Technologies Co., Ltd.
+  + M. Meng (2020 - 2023), Currently an Engineer at United Imaging Healthcare Co.,Ltd.
 <!-- - **Visiting Students** -->
   <!-- + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.   -->
 
