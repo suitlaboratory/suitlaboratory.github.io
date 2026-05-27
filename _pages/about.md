@@ -54,6 +54,8 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2026.06*: 祝贺朱卉入选上海市优秀毕业生，祝贺崔世龙入选上海科技大学优秀毕业生。
+- *2026.05*: Congratulations to Hui Zhu and Shilong Cui! They have successfully defended their PhD degree thesis. Bravo! Dr. Zhu and Dr. Cui.
 - *2026.02*: Congratulations, the work of Shaoqi Huang and Bowei Yao, entitled "Implicit Neural Representation for Sparse-view Photoacoustic Computed Tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X26000430).
 - *2025.12*: 祝贺曾一入选中国科协青年科技人才培育工程博士生专项计划。
 - *2025.11*: Congratulations, Yifei Li's work entitled "Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/11240230).
