@@ -292,6 +292,8 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
+- *2026* 上海市优秀毕业生 (awarded to 朱卉).
+- *2026* 上海科技大学优秀毕业生 (awarded to 崔世龙).
 - *2025* 中国科协青年科技人才培育工程博士生专项计划 (awarded to 曾一).
 - *2025* Student Travel Award (awarded to Pengcheng Wan), IEEE IUS.
 - *2025* 上海科技大学优秀毕业生 (awarded to 黄一鸣).
