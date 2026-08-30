@@ -349,21 +349,22 @@ School of Information Science and Technology, ShanghaiTech University.
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
-  + Zhu Hui (2020 Fall - present): B.E. at University of Shanghai for Science and Technology.
-  + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
   + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
   + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
+  + Zihua Liang (2024 Fall - present): B.E. at University of Shanghai for Science and Technology.
+  + Youjia Yang (2026 Fall - present): B.E. at Shanghaitech University.
   
 - **Master Students**
   + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
   + Shaoqi Huang (2024 Fall - present): B.E. at Jilin University.
-  + Zihua Liang (2024 Fall - present): B.E. at University of Shanghai for Science and Technology.
   + Letian Wang (2024 Fall - present): B.E. at Shanghai University of Electric Power.
   + Pengcheng Wan (2024 Fall - present): B.E. at Southwest University of Science and Technology.
   + Jie Liu (2025 Fall - present): B.E. at Xidian University.
   + Li Cui (2025 Fall - present): B.E. at Hangzhou Dianzi University.
   + Zhengyang Li (2025 Fall - present): B.E. at Wuhan University of Technology.
+  + Pengcheng Qian (2026 Fall - present): B.E. at Shanghai University.
+  + Bin Yan (2026 Fall - present): B.E. at Harbin Institute of Technology.
   
   <!--- **Undergrads**
   + Suian Zhou (2023 Fall - present), ShanghaiTech University-->
