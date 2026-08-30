@@ -370,7 +370,7 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Alumni**
   + S. Cui (2021 - 2026), Currently an Engineer at Moga Technology Co. Ltd.
   + H. Zhu (2020 - 2026), Currently a Senior Executive at a Start-up Company (北京芯现像).
-  + C. Li (2023 Fall - present): Currently a PhD candidate at Ocean University of China. 
+  + C. Li (2023 - 2026): Currently a PhD candidate at Ocean University of China. 
   + Y. Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
   + T. Liang (2022 - 2025), Currently an Engineer at China Telecom.
   + Y. Yang (2022 - 2025), Currently an Engineer at BYD.
