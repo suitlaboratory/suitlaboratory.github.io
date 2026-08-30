@@ -54,6 +54,7 @@ I served as a Technical Program Committee Member of  IEEE IUS, a co-chair for th
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2026.08*: Our grant proposal received the support from 'National Natural Science Foundation of China'.
 - *2026.06*: 祝贺朱卉入选上海市优秀毕业生，祝贺崔世龙入选上海科技大学优秀毕业生。
 - *2026.05*: Congratulations to Hui Zhu and Shilong Cui! They have successfully defended their PhD degree thesis. Bravo! Dr. Zhu and Dr. Cui.
 - *2026.02*: Congratulations, the work of Shaoqi Huang and Bowei Yao, entitled "Implicit Neural Representation for Sparse-view Photoacoustic Computed Tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X26000430).
@@ -367,6 +368,8 @@ School of Information Science and Technology, ShanghaiTech University.
   <!--- **Undergrads**
   + Suian Zhou (2023 Fall - present), ShanghaiTech University-->
 - **Alumni**
+  + S. Cui (2021 - 2026), Currently an Engineer at Moga Technology Co. Ltd.
+  + H. Zhu (2020 - 2026), Currently a Senior Executive at a Start-up Company (北京芯现像).
   + Y. Huang (2022 - 2025), Currently an Engineer at Chinese Academy of Sciences.
   + T. Liang (2022 - 2025), Currently an Engineer at China Telecom.
   + Y. Yang (2022 - 2025), Currently an Engineer at BYD.
